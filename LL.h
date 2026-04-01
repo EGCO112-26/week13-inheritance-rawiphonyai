@@ -1,6 +1,3 @@
-#ifdef LL_H
-#define LL_H
-
 class LL{
       NODE*hol;
       int size;
@@ -12,5 +9,3 @@ public:
        LL();
       
 };
-
-#endif
